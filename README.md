@@ -23,4 +23,4 @@ Short: https://names.jaipreston.com
 The lambda function resides in `src/random-names.ts`. To deploy, run the deploy script (`deploy.sh`). This will compile the typescript inside the src directory to javascript, before performing a CDK deployment.
 
 ### Troubleshooting
-* 'Command not found' and/pr 'Permission denied' when running deploy script &mdash; You may have to run `chmod +x deploy.sh` to add execute permission.
+* "Command not found" and/or "Permission denied" when running deploy script &mdash; You may have to run `chmod +x deploy.sh` to add execute permission.
